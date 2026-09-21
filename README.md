@@ -50,6 +50,7 @@ Titanic dataset produced in Task 1 (titanic_cleaned.csv), using Python
 6. The correlation heatmap confirms Pclass has the strongest negative
    correlation with Survived among the numeric features, matching the
    class-based patterns seen above rather than contradicting them.
+   "Anomalies: the fare boxplot shows extreme outliers, with a few 1st class tickets above 250, while most 3rd class fares stay under 30."
 
 Bottom line: survival on the Titanic was driven mainly by a
 combination of sex, passenger class, and age, with fare and cabin records
